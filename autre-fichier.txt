@@ -1,0 +1,3 @@
+Ceci est un fichier texte de qualité
+changement de repertoire de mon_projet vers demo_git
+
