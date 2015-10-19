@@ -1,5 +1,8 @@
 # demo_git
 Une demo de git Tony
+Alors tu tebn sors
 Tout va bien 
-On continue l appentissage de git
+OUIIIIII 
+TONY Yen ama rre..
+
 
